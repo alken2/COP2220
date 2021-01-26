@@ -8,6 +8,6 @@ Coursework for Computer Science 1
 - Assignment 5: Calculate absolute value, exponential value, rounded number, and random numbers from input
 - Assignment 6: Check whether input integer is a leap year
 - Assignment 7: Convert input decimal integer to octal integer
-- Assignment 8: TBD
-- Assignment 9: TBD
-- Assignment 10: TBD
+- Assignment 8: Check validity of birthdate from input file and display fortune
+- Assignment 9: Display iterations of the Fibonacci Sequence using input integer as number of iterations
+- Assignment 10: Check whether input string is a palindrome
